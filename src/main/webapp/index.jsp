@@ -19,7 +19,7 @@
                 <li><a href="#watches">Watches</a></li>
                 <li><a href="#earrings">Earrings</a></li>
                 <li><a href="#footwear">Footwear</a></li>
-                <li><a href="#cart"><i class="fas fa-shopping-cart"></i> <span id="cart-count">0</span></a></li>
+                <li><a href="#cart"><em class="fas fa-shopping-cart"></em> <span id="cart-count">0</span></a></li>
             </ul>
         </nav>
     </header>
